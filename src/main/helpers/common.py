@@ -1,6 +1,5 @@
 import json
 from falcon.util.uri import parse_query_string
-import falcon
 from falcon import HTTPBadRequest
 from mongoengine import DoesNotExist
 from ..models import AuthInfo
