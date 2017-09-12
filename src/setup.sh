@@ -1,0 +1,2 @@
+export MONGO_IP=127.0.0.1
+export MONGO_PORT=27017
